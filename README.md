@@ -1,2 +1,2 @@
 # MYDOCUMENTS
-This repository is meant to store my documents
+From this repository you will find my sample coding work
